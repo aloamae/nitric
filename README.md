@@ -17,7 +17,7 @@
 [Nitric](https://nitric.io) is a multi-language framework, with concise inline infrastructure from code. Modern applications should be robust, productive and a joy to build. Nitric solves common problems building for modern platforms:
 
 - [Easy infrastructure](https://nitric.io/docs/get-started/foundations/why-nitric) from code
-- https://medium.com/@jaydipkumarjha/7-open-source-tools-backend-developers-cant-ignore-in-2025-bb4ef1311f55
+- Article à lire https://medium.com/@jaydipkumarjha/7-open-source-tools-backend-developers-cant-ignore-in-2025-bb4ef1311f55
 - Build for [any host without coupling](https://nitric.io/docs/providers)
 - [Run locally](https://nitric.io/docs/get-started/foundations/projects/local-development#local-dashboard)
 - [IAM for humans](https://nitric.io/docs/get-started/foundations/infrastructure/security)
